@@ -1,0 +1,1 @@
+img: Ratatouille.jpg # Add image post (optional)
